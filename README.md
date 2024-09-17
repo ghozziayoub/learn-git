@@ -17,5 +17,11 @@ Version ( A, M ) : serial number + description
 git commit -am "description"
 git commit -m "description"
 ------
+Use those commands : 
 git add .
 git commit -am "description"
+------
+Use those commands for specific files included in version : 
+git add filename
+git commit -m "description"
+
