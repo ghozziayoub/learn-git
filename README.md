@@ -11,8 +11,11 @@ git add .
 A : added => un nouveau fichier ajouté
 M : modified => un fichier indexé saret alih modification
 
----
+------
 Version ( A, M ) : serial number + description
 
 git commit -am "description"
 git commit -m "description"
+------
+git add .
+git commit -am "description"
