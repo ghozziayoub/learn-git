@@ -24,4 +24,6 @@ git commit -am "description"
 Use those commands for specific files included in version : 
 git add filename
 git commit -m "description"
-
+------
+link local with remote repository
+git remote add origin https://github.com/ghozziayoub/learn-git.git
